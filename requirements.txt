@@ -1,8 +1,8 @@
 logging
 math
 hashlib
-sqlite3
-altair
-numpy
-pandas
-streamlit
+sqlite3==3.38.2
+altair==4.2.0
+numpy==1.22.3
+pandas==1.4.2
+streamlit==1.8.1
